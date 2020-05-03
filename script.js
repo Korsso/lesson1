@@ -8,12 +8,16 @@
      //out.innerHTML = '<i>Hi</i>';
      //out.innerText = '<i>Hi</i>'; 
      //document.getElementById('out').innerHTML =777;
+     //let p;
+     //p = document.getElementById('out');
+     //p =document.querySelector('#out');
+     //p.innerHTML = 558885;
+    // console.log(p);
+     //let c = 'hello';
+     //let d = 'wordl';
+     //console.log(c +d);
+     let year = 1974;
+     console.log(2020 - 1974);
      let p;
-     p = document.getElementById('out');
      p =document.querySelector('#out');
-     p.innerHTML = 558885;
-     console.log(p);
-     let c = 'hello';
-     let d = 'wordl';
-     console.log(c +d);
-     
+     p.innerHTML = 1974;
