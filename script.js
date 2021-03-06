@@ -16,8 +16,11 @@
      //let c = 'hello';
      //let d = 'wordl';
      //console.log(c +d);
-     let year = 1974;
-     console.log(2020 - 1974);
-     let p;
-     p =document.querySelector('#out');
-     p.innerHTML = 1974;
+    // let year = 1974;
+     //console.log(2020 - 1974);
+     //let p;
+     //p =document.querySelector('#out');
+     //p.innerHTML = 1974;
+     if (2*4 == 8) {
+          console.log("Верно")
+     }
