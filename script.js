@@ -1,20 +1,18 @@
-
-//var leftBorderWidth = 1;
-//let second = 2; 
-  //const pi = 3.14;
- // console.log(second);  
+"us strict";
 
 
-var number = 5;
-var string = "Hello!";
-var syn = Symbol();
-null;
-undefined;
-var obj = ();
+let number = 5;
+const leftBorderWidth = 1;
 
-console.log(4/0);
+number = 10;
+console.log(number);
 
+const obj = {
 
+  a: 50
+}
+obj.a = 10;
+ console.log(obj);
 
 
 
